@@ -2,4 +2,4 @@
 1
 2
 3
-p ate_pct ATE (Average Treatment Effectin) percentage points under subgroup heterogeneity (post-estimation) Use ate_pct With STATA 19
+p sdid_event Synthetic Difference-in-Differences (SDID) event-study estimators Use sdid_event With STATA 19
